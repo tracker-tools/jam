@@ -1,5 +1,5 @@
 {
-  "name": "jam",
+  "name": "jam-theme",
   "version": "0.0.1",
   "description": "bootstrap theme based on bootswatch: paper",
   "dependencies": {
