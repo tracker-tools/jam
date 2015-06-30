@@ -10,7 +10,7 @@ module.exports = function(grunt) {
       },
       development: {
         files: [{
-          src: ['less/index.less'],
+          src: ['less/jam.less'],
           dest: 'css/jam.css'
         }]
        }
