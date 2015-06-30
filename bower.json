@@ -1,0 +1,8 @@
+{
+  "name": "jam",
+  "version": "0.0.1",
+  "description": "bootstrap theme based on bootswatch: paper",
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
